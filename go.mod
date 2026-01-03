@@ -9,7 +9,7 @@ require (
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/viper v1.21.0
 	golang.org/x/oauth2 v0.34.0
-	resty.dev/v3 v3.0.0-beta.4
+	resty.dev/v3 v3.0.0-beta.6
 )
 
 require (
